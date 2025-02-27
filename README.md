@@ -21,6 +21,7 @@ best_model.pkl: فایل مدل ذخیره‌شده برای استفاده در
 نصب نیازمندی‌ها:
 
 pip install -r requirements.txt
+
 اجرای کد:
 
 python predictHomeValue.py
